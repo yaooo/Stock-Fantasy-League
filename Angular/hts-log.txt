@@ -1,0 +1,11 @@
+HTTrack3.49-2 launched on Mon, 19 Mar 2018 16:19:22 at https://stockfantacy.wordpress.com/
+(winhttrack https://stockfantacy.wordpress.com/ -O "~/Documents/temp/main" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+
+HTTrack Website Copier/3.49-2 mirror complete in 9 seconds : 13 links scanned, 12 files written (149289 bytes overall) [55484 bytes received at 6164 bytes/sec], 149657 bytes transferred using HTTP compression in 13 files, ratio 32%, 3.2 requests per connection
+(No errors, 0 warnings, 0 messages)

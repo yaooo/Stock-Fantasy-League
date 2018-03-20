@@ -8,10 +8,10 @@ name = "pypi"
 [packages]
 
 requests = "*"
-Flask = "*"
+flask = "*"
 gunicorn = "*"
 "psycopg2-binary" = "*"
-Flask-RESTful = "*"
+flask-restful = "*"
 
 
 [dev-packages]
